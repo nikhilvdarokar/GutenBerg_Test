@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[TC is passed]]>
+    </line>
+    <line>
+      <![CDATA[TC is passed]]>
+    </line>
+    <line>
+      <![CDATA[TC is passed]]>
+    </line>
+    <line>
+      <![CDATA[TC is passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-02-24T10:47:49 IST" name="Suite" finished-at="2023-02-24T10:49:44 IST" duration-ms="115648">
+    <groups>
+    </groups>
+    <test started-at="2023-02-24T10:47:49 IST" name="Humor_Test" finished-at="2023-02-24T10:49:38 IST" duration-ms="109608">
+      <class name="Test_Class_Gutenberg.CGF_0005_Humor">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Test_Class_Gutenberg.CGF_0005_Humor@34123d65]" started-at="2023-02-24T10:47:49 IST" name="openBrowser" finished-at="2023-02-24T10:48:43 IST" duration-ms="54255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="CGF_0005Humor()[pri:0, instance:Test_Class_Gutenberg.CGF_0005_Humor@34123d65]" started-at="2023-02-24T10:48:43 IST" name="CGF_0005Humor" finished-at="2023-02-24T10:49:28 IST" duration-ms="45064" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC is passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CGF_0005Humor -->
+        <test-method is-config="true" signature="close_browser6()[pri:0, instance:Test_Class_Gutenberg.CGF_0005_Humor@34123d65]" started-at="2023-02-24T10:49:28 IST" name="close_browser6" finished-at="2023-02-24T10:49:38 IST" duration-ms="10143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser6 -->
+      </class> <!-- Test_Class_Gutenberg.CGF_0005_Humor -->
+    </test> <!-- Humor_Test -->
+    <test started-at="2023-02-24T10:47:49 IST" name="Politics_Test" finished-at="2023-02-24T10:49:37 IST" duration-ms="108952">
+      <class name="Test_Class_Gutenberg.CGF_0005_Politics">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Test_Class_Gutenberg.CGF_0005_Politics@47eaca72]" started-at="2023-02-24T10:47:49 IST" name="openBrowser" finished-at="2023-02-24T10:48:43 IST" duration-ms="54254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="CGF_0005Politics()[pri:0, instance:Test_Class_Gutenberg.CGF_0005_Politics@47eaca72]" started-at="2023-02-24T10:48:43 IST" name="CGF_0005Politics" finished-at="2023-02-24T10:49:28 IST" duration-ms="45064" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC is passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CGF_0005Politics -->
+        <test-method is-config="true" signature="close_browser6()[pri:0, instance:Test_Class_Gutenberg.CGF_0005_Politics@47eaca72]" started-at="2023-02-24T10:49:28 IST" name="close_browser6" finished-at="2023-02-24T10:49:37 IST" duration-ms="9251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser6 -->
+      </class> <!-- Test_Class_Gutenberg.CGF_0005_Politics -->
+    </test> <!-- Politics_Test -->
+    <test started-at="2023-02-24T10:47:49 IST" name="Drama_Test" finished-at="2023-02-24T10:49:37 IST" duration-ms="108944">
+      <class name="Test_Class_Gutenberg.CGF_0005_Drama">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Test_Class_Gutenberg.CGF_0005_Drama@76505305]" started-at="2023-02-24T10:47:49 IST" name="openBrowser" finished-at="2023-02-24T10:48:43 IST" duration-ms="54355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="CGF_0005Drama()[pri:0, instance:Test_Class_Gutenberg.CGF_0005_Drama@76505305]" started-at="2023-02-24T10:48:43 IST" name="CGF_0005Drama" finished-at="2023-02-24T10:49:28 IST" duration-ms="44965" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC is passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CGF_0005Drama -->
+        <test-method is-config="true" signature="close_browser6()[pri:0, instance:Test_Class_Gutenberg.CGF_0005_Drama@76505305]" started-at="2023-02-24T10:49:28 IST" name="close_browser6" finished-at="2023-02-24T10:49:37 IST" duration-ms="9316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser6 -->
+      </class> <!-- Test_Class_Gutenberg.CGF_0005_Drama -->
+    </test> <!-- Drama_Test -->
+    <test started-at="2023-02-24T10:47:49 IST" name="FICTION_Test" finished-at="2023-02-24T10:49:44 IST" duration-ms="115648">
+      <class name="Test_Class_Gutenberg.CGF_0005_FICTION">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Test_Class_Gutenberg.CGF_0005_FICTION@5876a9af]" started-at="2023-02-24T10:47:49 IST" name="openBrowser" finished-at="2023-02-24T10:48:43 IST" duration-ms="54253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="CGF_0005Fiction()[pri:0, instance:Test_Class_Gutenberg.CGF_0005_FICTION@5876a9af]" started-at="2023-02-24T10:48:43 IST" name="CGF_0005Fiction" finished-at="2023-02-24T10:49:28 IST" duration-ms="45172" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [Fiction] but found [FICTION]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [Fiction] but found [FICTION]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+at Test_Class_Gutenberg.CGF_0005_FICTION.CGF_0005Fiction(CGF_0005_FICTION.java:34)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:471)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[TC is passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CGF_0005Fiction -->
+        <test-method is-config="true" signature="close_browser6()[pri:0, instance:Test_Class_Gutenberg.CGF_0005_FICTION@5876a9af]" started-at="2023-02-24T10:49:28 IST" name="close_browser6" finished-at="2023-02-24T10:49:44 IST" duration-ms="16102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser6 -->
+      </class> <!-- Test_Class_Gutenberg.CGF_0005_FICTION -->
+    </test> <!-- FICTION_Test -->
+  </suite> <!-- Suite -->
+</testng-results>

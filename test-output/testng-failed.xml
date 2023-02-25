@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="FICTION_Test(failed)">
+    <classes>
+      <class name="Test_Class_Gutenberg.CGF_0005_FICTION">
+        <methods>
+          <include name="close_browser6"/>
+          <include name="openBrowser"/>
+          <include name="CGF_0005Fiction"/>
+        </methods>
+      </class> <!-- Test_Class_Gutenberg.CGF_0005_FICTION -->
+    </classes>
+  </test> <!-- FICTION_Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
